@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Absolute position</title>
+        <style>
+            #common{
+                width: 100px;
+                height: 100px;
+                border: 1px solid gray;
+
+
+
+            }
+            .id1{
+                background-color: red;
+                
+            }
+            .id2{
+                background-color: green;
+                position: absolute;
+                left: 40px;
+                bottom: 520px;
+              
+            }
+            .id3{
+                background-color: blue;
+                z-index: 100;
+
+            }
+            .id4{
+                background-color: aqua;
+
+            }
+            .id5{
+                background-color: cadetblue;
+
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div id="common" class="id1">1</div>
+        <div id="common" class="id2">2</div>
+        <div id="common" class="id3">3</div>
+        <div id="common" class="id4">4</div>
+        <div id="common" class="id5">5</div>
+        
+       
+        
+    </body>
+</html>

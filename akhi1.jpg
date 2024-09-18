@@ -1,0 +1,373 @@
+
+<!-- saved from url=(0034)http://127.0.0.1:5500/varadhi.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>varahi html;
+
+
+
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Varadhi Forms</title>
+    <link rel="stylesheet" href="./akhi1_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./akhi1_files/varadhi.css">
+
+
+    <header class="marque">
+        <marquee behavior="repeat" direction="">
+            <ul class="list">
+            <li>Free Shipping On Ordered Above 
+            <i class="fa fa-rupee"></i>499
+            </li>
+            <li>Free Shipping On Ordered Above 
+                <i class="fa fa-rupee"></i>499
+                </li>
+            <li>Free Shipping On Ordered Above 
+                 <i class="fa fa-rupee"></i>499
+                    </li>
+              <li>Free Shipping On Ordered Above 
+                <i class="fa fa-rupee"></i>499
+                    </li>
+        </ul>
+      
+    </marquee>
+</header>
+    <div class="first">
+        <img src="./akhi1_files/menu.jog.png" alt="menu" width="50px" height="50px">
+        <img src="./akhi1_files/akhil.jpg" alt="menu" width="100px" height="100px">
+
+        
+            <div class="firstcart">
+                <input type="search" name="search" placeholder="search">
+                <i class="fa fa-shopping-cart" width="25px" height="25px"></i>
+            </div>
+    </div>
+        
+    <div class="second">
+    </div>
+    <div class="three">
+        <h1>Go Natural, Go Healthy.</h1>
+    </div>
+    <div class="four">
+        <div class="fourimage">
+            <img src="./akhi1_files/image1.jpg" alt="" width="350px" height="350px">
+                     <h2 style="text-align: center;">Small bee Honey</h2>
+                     <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image2.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image3.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image5.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image6.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image7.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image8.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image9.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image10.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image12.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image13.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image14.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image15.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image16.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image17.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image18.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+        <div class="fourimage">
+            <img src="./akhi1_files/image19.jpg" alt="" width="350px" height="350px">
+            <h2 style="text-align: center;">Small bee Honey</h2>
+            <p style="text-align: center;">start from Rs.499</p>
+        </div>
+    </div>
+        <main class="five">
+            <img class="fiveimg" src="./akhi1_files/down.jpg" alt="">
+
+        </main>
+        <div class="six">
+            <div class="sixdiv">
+                <img src="./akhi1_files/down1.jpg" alt="scsx">
+                <h2>Farm-to-Table Freshness</h2>
+                <p>Enjoy the vibrant flavors and superior quality of food that has been carefully harvested and brought straight to your doorstep.</p>
+            </div>
+            <div class="sixdiv">
+                <img src="./akhi1_files/down2.jpgf.webp" alt="sacs">
+                <h2>Pure and Clean Ingredients</h2>
+                <p>Enjoy the vibrant flavors and superior quality of food that has been carefully harvested and brought straight to your doorstep.</p>
+            </div>
+            <div class="sixdiv">
+                <img src="./akhi1_files/down3.jpg" alt="xss">
+                <h2>Nutritional Excellence</h2>
+                <p>Enjoy the vibrant flavors and superior quality of food that has been carefully harvested and brought straight to your doorstep.</p>
+            </div>
+        </div>
+        <section class="seven">
+               <h1 style="text-align: center; color: brown;padding:20px;">Problems With Modern Farming</h1>
+               <div class="sevendiv">
+                <h2>Synthetic pesticides</h2>
+                <h2>Chemical fertilizers</h2>
+                <h2>Genatic modified organisms</h2>
+                <h2>Environment Impact</h2>
+               </div>
+               <p style="text-align: center;">Conventional farming relies on the use of synthetic pesticides, which are chemical substances specifically designed to kill or control pests that can damage crops. These pesticides are typically derived from artificial compounds and can have negative impacts on the environment, including soil degradation, water pollution, and harm to beneficial insects and wildlife.
+
+                Natural Turmeric
+                Zoom</p>
+        </section>
+        <section class="eight">
+            <img class="eightimg" src="./akhi1_files/image8.jpg" alt="">
+            <div class="eightdiv">
+                <h1>Natural Turmeric</h1>
+                <h3>Rs.399.00</h3>
+                 <h3><i class="fa fa-check" style="font-size:20px"></i>
+                    In stock</h3>
+                    <h3>kg:1/2kg</h3>
+                    <!-- <div style="display:flex;">
+                        <h3 style="border:1px solid; border-radius: 50% 0%;padding:10px">1/2kg</h3>
+                        <h3 style="border:1px solid; border-radius: 100%;padding: 10px;">1kg</h3>
+                    </div> -->
+                    <h3>Quantity:1kg</h3>
+                    <div style="border:1px solid;background-color: rgb(168, 211, 168); width:80%">
+                        <h2 style="text-align: center;"><i class="fas fa-shuttle-van" style="font-size:24px"></i>Free Shiping</h2>
+                    </div>
+                    <br>
+                    <br>
+                    <div style="border:1px solid;background-color: rgb(33, 105, 33); border-radius:10% 10%;width:80%">
+                        <h2 style="text-align: center;"><i class="fas fa-shuttle-van" style="font-size:24px"></i>Add To Cart</h2>
+                    </div>
+                    
+            </div>
+        </section>
+        <br>
+        <br>
+        <section class="nine">
+            <img class="nineimg" src="./akhi1_files/flex.jpg" alt="" width="250px" height="250px">
+            <img class="nineimg" src="./akhi1_files/flex2.jpg" alt="" width="250px" height="250px">
+            <img class="nineimg" src="./akhi1_files/flex3.jpg" alt="" width="250px" height="250px">
+            <img class="nineimg" src="./akhi1_files/flex4.jpg" alt="" width="250px" height="250px">
+            <img class="nineimg" src="./akhi1_files/flex5.jpg" alt="" width="200px" height="250px">
+        
+
+        </section>
+        <div class="ten">
+            <marquee behavior="" direction="">
+                <h1>Go Natural,Go Healthy</h1>
+            </marquee>
+            <marquee behavior="" direction="">
+                <h1>Go Natural,Go Healthy</h1>
+            </marquee>
+            <marquee behavior="" direction="">
+                <h1>Go Natural,Go Healthy</h1>
+            </marquee>
+        </div>
+        <section class="eleven">
+            <div>
+                <!-- <i class="fa fa-star" >        -->
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+
+
+                         </div>
+            <div>
+                <p style="color:rgb(35, 111, 35); font-size: 2vw;">In this polluted world, I have tasted original real honey taste,
+                    Hats off! Previous
+                </p>
+            </div>
+        </section>
+        <section class="tewelve">
+            <img class="tewelveimg" src="./akhi1_files/farming1.jpg" alt="" width="40%">
+            <div class="tewelvediv">
+                <h1>About US</h1>
+                <p style=" font-size: 1.5vw;">Welcome to Vaaradhi Farms! I am Nethra and I am extremely passionate about healthy living and sustainable food practices.</p>
+                <p style="font-style: bold; font-size: 1.5vw;">I am committed to making a positive impact on the world through our business. I hope that you'll join us on this journey towards healthy living and sustainable food practices.</p>
+                <p style="font-style: bold; font-size: 1.5vw;">Thank you for choosing our organic food products, and I look forward to serving you soon.</p>
+            </div>
+        </section>
+        <div class="thirteen">
+            <h1 style="color:rgb(57, 127, 57,0.8); text-align: center;  font-size: 5vw;">100% PURE</h1>
+            <h1 style="color:rgb(57, 127, 57); text-align: center;  font-size: 2vw;">Our Products Are Free From Chemicals And Additives</h1>
+
+        </div>
+        <section class="fourteen">
+            <div class="fourteenone">
+                <h1 style="font-size: 4vw;">FAQ</h1>
+                <h2 style="font-size: 2vw;">Check out the most common questions our customers asked and if you Still have questions, Contact our customer support.</h2>
+            </div>
+            <div class="fourteentwo">
+  	              <div class="fouteentwoone">
+                    <select name="" id="question">
+                        <option value="question">How much time is taken for shipping?</option>
+                        <option value="">It takes around 4-6 days for your order to get delivered.</option>
+                    </select>
+                    <select name="" id="question">
+                        <option value="qution">Do you accept returnds and refunds?</option>
+                        <option value="">No, We do not accept returns and refunds due to the nature of the product.</option>
+                    </select>
+                    <select name="" id="question">
+                        <option value="how hmuch">What payment gateways do you accept?</option>
+                        <option value="">At the moment we offer Cash On Delivery.</option>
+                    </select>
+                
+                </div>
+            </div>
+        </section>
+        <footer class="fifteen">
+
+        </footer>
+        <summary class="sixteen">
+            <section class="sixteenone">
+                <div>
+                <h1>Sign up to our newsletter
+                </h1>
+                <form action="http://127.0.0.1:5500/varadhi.html">
+                    <input type="email" placeholder="Email">
+                </form>
+            </div>
+                <div>
+                <i class="fa fa-instagram" style="font-size:24px"></i>
+                <h3>© 2024, Vaaradhi Farms. Built by Ecommified.in</h3>
+            </div>
+            </section>
+            <section class="sixteentwo">
+               <h2 style="text-align: center;"> Customer Care  </h2>
+        
+            <pre style="font-size: 1vw;">                FAQ
+
+                Shipping Policy
+
+                Refund Policy
+
+                Cancellation Policy
+
+                Privacy Policy
+
+                Terms of Service
+
+                Contact Information
+
+                Wild forest honey certificate
+
+                Dark Forest Honey Certificate
+            </pre>
+            </section>
+            <section class="sixteenthree">
+                <h2 style="text-align: center;">Contact Info</h2>
+                <pre style="font-size: 1vw;">                    Trade Name : Vaaradhi Farms
+
+                    Email Support : vaaradhifarms@gmail.com
+
+                    Customer Care Number :
+
+                    +91 89770 21193
+
+                    +91 89770 21197
+
+                    Customer Support Timings : 10:30am to 6:30pm
+
+                    Address : Manikonda, Hyderabad, Telangana , Pin - 500089
+
+                    FSSAI : 23623028001252
+                </pre>
+
+            </section>
+        </summary>
+
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+</body></html>
